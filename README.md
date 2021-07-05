@@ -3,11 +3,11 @@
 
 Hey. I am a student of EPAM company. And these are my tasks.
 
-![DewOps](https://github.com/ivorobey/DevOps_online_Kyiv_2020Q3Q4/blob/master/images/m1/devops.png)
+![DewOps](https://github.com/ivorobey/DevOps_online_Kyiv_2021Q3/blob/main/images/m1/devops.png)
 
 ## m1(DevOps Introduction)
   - [task 1.1]()
-  - [task 1.2]()
+  
 
 ## m2(Virtualization and Cloud Basic)
 - [task 2.1]()
