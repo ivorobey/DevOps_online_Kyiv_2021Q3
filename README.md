@@ -6,7 +6,7 @@ Hey. I am a student of EPAM company. And these are my tasks.
 ![DewOps](https://github.com/ivorobey/DevOps_online_Kyiv_2021Q3/blob/main/images/m1/devops.png)
 
 ## m1(DevOps Introduction)
-  - [task 1.1]()
+  - [task 1.1](https://github.com/ivorobey/DevOps_online_Kyiv_2021Q3/blob/main/modules/m1/task%201.1/readme1.md)
   
 
 ## m2(Virtualization and Cloud Basic)
